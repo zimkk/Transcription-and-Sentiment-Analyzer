@@ -174,11 +174,3 @@ The main script that manages user interaction and orchestrates the processing fl
 - `beautifulsoup4`: A library for parsing HTML and XML documents.
 - `speechrecognition`: Library for performing speech recognition with support for several engines and APIs.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-```
-
----
-
-Feel free to modify these documents to better fit your specific project details and any additional information you may want to include.
